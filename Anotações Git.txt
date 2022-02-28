@@ -1,0 +1,14 @@
+Um Pull/Merge Request (dependendo da ferramenta utilizada) é uma forma colaborativa de compartilhar criação ou mudanças de código no repositório, de forma que facilite ser revisado e/ou discutido entre todos os membros do time.
+https://medium.com/luizalabs/pull-merge-requests-seguindo-boas-pr%C3%A1ticas-8a7bbbad0ea7
+
+As issues são uma importante feature das plataformas de armazenamento de código fonte, como o GitHub e GitLab. Com elas nós descrevemos os problemas que temos nos projetos para que sejam resolvidos por qualquer pessoa que quiser contribuir.
+https://medium.com/trainingcenter/melhorando-issues-para-ficarem-mais-amig%C3%A1veis-para-iniciantes-890b0bad4b9
+
+Comandos básicos Git
+https://comandosgit.github.io/
+
+git init -Inicia repositório
+git add . -Adiciona arquivos 
+git status -Verifica o status dos arquivos monitorados
+git commit -m "Descrição do commit" -Faz commit dos arquivos no repositório
+git push origin main -Envia arquivos comitados para o trunk main
