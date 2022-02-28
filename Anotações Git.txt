@@ -12,3 +12,8 @@ git add . -Adiciona arquivos
 git status -Verifica o status dos arquivos monitorados
 git commit -m "Descrição do commit" -Faz commit dos arquivos no repositório
 git push origin main -Envia arquivos comitados para o trunk main
+
+git reset . -Desfaz o comando "git add ."
+
+
+Para projetos C# crie o gitignore com: "dotnet new gitignore"
